@@ -388,19 +388,19 @@ export const projects = [
   //   // github: "https://github.com/rishavchanda/Buckoid-Android-App",
   //   // webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
   // },
-  // {
-  //   id: 10,
-  //   title: "Job Finding App",
-  //   date: "Jun 2023 - Jul 2023",
-  //   description:
-  //     "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
-  //   image:
-  //     "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-  //   tags: ["React Native", "JavaScript", "Axios"],
-  //   category: "android app",
-  //   // github: "https://github.com/rishavchanda/Job-finder-App",
-  //   // webapp: "https://github.com/rishavchanda/Job-finder-App",
-  // },
+  {
+    id: 10,
+    title: "Portfolio Website",
+    date: "Sept 2023 - Present",
+    description:
+      "Designed portfolio using React - an interactive gateway to my expertise in Web Development, Android Development, and Software Development. Explore a diverse range of projects that showcase my skills and creativity across these domains.",
+    image:
+      "https://github.com/akashtripathiiiii/testing/assets/57222581/f28a7e96-1d92-442d-8320-b2104fba2d03",
+    tags: ["React Native", "JavaScript", "Axios"],
+    category: "web app",
+    github: "https://github.com/akashtripathiiiii/akash-portfolio-reactjs",
+    // webapp: "https://github.com/rishavchanda/Job-finder-App",
+  },
   // {
   //   id: 4,
   //   title: "Whatsapp Clone",
