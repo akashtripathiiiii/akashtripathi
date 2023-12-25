@@ -41,7 +41,7 @@ function App() {
             <Skills />
             {/* <Certificate /> */}
             <Education />
-            {/* <Experience /> */}
+            <Experience />
           </Wrapper>
           <Projects openModal={openModal} setOpenModal={setOpenModal} /> 
           <Wrapper>

@@ -89,7 +89,7 @@ const index = ({ openModal, setOpenModal }) => {
           />
           <Image src={certificate?.img} />
           <Title>{certificate?.title}</Title>
-          <Date>{certificate.date}</Date>
+          <Date>{certificate?.date}</Date>
           <Desc>{certificate?.description}</Desc>
         </Wrapper>
       </Container>
