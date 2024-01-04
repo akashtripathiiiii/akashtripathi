@@ -380,8 +380,8 @@ export const projects = [
     description:
       "Designed portfolio using React - an interactive gateway to my expertise in Web Development, Android Development, and Software Development. Explore a diverse range of projects that showcase my skills and creativity across these domains.",
     image:
-      "https://github.com/akashtripathiiiii/file-for-projects/assets/57222581/4a9df2d5-ebd3-498a-b1f8-0529e2a94a52",
-    tags: ["React Native", "JavaScript", "Axios"],
+      "https://github.com/akashtripathiiiii/file-for-projects/assets/57222581/0574d4f8-2a3f-4c58-87dc-f172ef707c45",
+    tags: ["React", "JavaScript", "Axios", "CSS", "EmailJs"],
     category: "web app",
     github: "https://github.com/akashtripathiiiii/akash-portfolio-reactjs",
     // webapp: "https://github.com/rishavchanda/Job-finder-App",
