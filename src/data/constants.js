@@ -10,7 +10,7 @@ export const Bio = {
   description:
     "A versatile professional skilled in software, web, and mobile development. Proficient in front-end and back-end technologies, focused on creating secure, user-friendly solutions. Experienced troubleshooter and communicator, committed to personal and professional growth.",
   github: "https://github.com/akashtripathiiiii",
-  resume: "https://drive.google.com/file/d/1JTMH5ymmXwbg2nT1-6CFsVYmMqQK7llv/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/173o2_1hhrylg139RmE55VXbfMCvumSzz/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/akashtripathiiiii",
   twitter: "https://twitter.com/akasht_0109",
   insta: "https://www.instagram.com/akashtripathiiiii",
