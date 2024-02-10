@@ -386,25 +386,38 @@ export const projects = [
     github: "https://github.com/akashtripathiiiii/akash-portfolio-reactjs",
     // webapp: "https://github.com/rishavchanda/Job-finder-App",
   },
-  // {
-  //   id: 4,
-  //   title: "Whatsapp Clone",
-  //   date: "Jul 2021",
-  //   description:
-  //     "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
-  //   image:
-  //     "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
-  //   tags: ["React Js", "Firebase", "Firestore", "Node JS"],
-  //   category: "web app",
-  //   // github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-  //   // webapp: "https://whatsapp-clone-rishav.web.app",
-  // },
+  {
+    id: 11,
+    title: "Library Management System",
+    date: "April 2023 – May 2023",
+    description:
+      "Designed to optimize library operations, our Library Management System offers user authentication, cataloging, search, checkout, inventory management, and reporting functionalities. Developed using Python and MySQL, this system enhances resource discovery for users and streamlines processes for librarians, fostering a more efficient and enjoyable environment for learning and exploration.",
+    // image:
+    //   "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
+    tags: ["Python","MySQL"],
+    category: "software dev",
+    github: "https://github.com/akashtripathiiiii/library-management-project",
+    // webapp: "https://whatsapp-clone-rishav.web.app",
+  },
+  {
+    id: 12,
+    title: "Online Shopping System",
+    date: "Oct 2023 – Nov 2023",
+    description:
+      "Crafted for seamless e-commerce experiences, our Online Shopping System empowers sellers and buyers alike. Built with Java and MySQL, sellers enjoy intuitive management of products, customers, and orders, while buyers navigate effortlessly through a user-friendly interface, ensuring a smooth shopping journey for all.",
+    // image:
+    //   "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
+    tags: ["JAVA", "MySQL", "JDBC Connector", "Apache Commons File Upload"],
+    category: "software dev",
+    github: "https://github.com/akashtripathiiiii/Online-Shopping-System",
+    // webapp: "https://whatsapp-clone-rishav.web.app",
+  },
   {
     id: 5,
     title: "Ride Hive",
     date: "July 2023- Present",
     description:
-      "Designed for tech enthusiasts, our app offers a curated gateway to the dynamic world of technology-related events. Meticulously developed and powered by Firebase, it seamlessly stores and retrieves event data, ensuring you stay informed about the latest tech happenings. Explore, plan, and engage with the technology community through our thoughtfully designed app, which keeps you connected to the pulse of tech events..",
+      "Designed for tech enthusiasts, our app offers a curated gateway to the dynamic world of technology-related events. Meticulously developed and powered by Firebase, it seamlessly stores and retrieves event data, ensuring you stay informed about the latest tech happenings. Explore, plan, and engage with the technology community through our thoughtfully designed app, which keeps you connected to the pulse of tech events.",
     // image:
     //   "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
     tags: ["Kotlin","Firebase","Tech Event Management"],
@@ -428,7 +441,7 @@ export const projects = [
   {
     id: 7,
     title: "Airline Reservation",
-    date: "April 2022 - May 2022",
+    date: "Dec 2022 – Jan 2023",
     description:
       "The Airline Reservation System, developed solely in C++, is user-friendly and highly customizable. It offers an efficient method for booking flight tickets and recording passenger information, reducing the likelihood of booking errors. Key features include reservation creation and cancellation, passenger search and reservation modification, passenger list and status report printing, and meal ordering for passengers.",
     image:
