@@ -287,7 +287,7 @@ export const education = [
     school: "Lovely Professional University, Punjab",
     date: "July 2021 - July 2024",
     grade: "7.54 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Lovely Professional University, Punjab. I have completed 6 semesters and have a CGPA of 7.70. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at LPU, where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Lovely Professional University, Punjab. I have completed 6 semesters and have a CGPA of 7.54. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at LPU, where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
@@ -374,7 +374,57 @@ export const projects = [
     // webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
   },
   {
-    id: 10,
+    id: 4,
+    title: "Ride Hive",
+    date: "July 2023- Present",
+    description:
+      "Designed for tech enthusiasts, our app offers a curated gateway to the dynamic world of technology-related events. Meticulously developed and powered by Firebase, it seamlessly stores and retrieves event data, ensuring you stay informed about the latest tech happenings. Explore, plan, and engage with the technology community through our thoughtfully designed app, which keeps you connected to the pulse of tech events.",
+    // image:
+    //   "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
+    tags: ["Kotlin", "Firebase", "Tech Event Management"],
+    category: "android app",
+    github: "https://github.com/akashtripathiiiii/TechManagementSystem",
+    // webapp: "https://rishav-react-todo.netlify.app/",
+  },
+  {
+    id: 5,
+    title: "Recipe App",
+    date: "April 2023",
+    description:
+      "Crafted with a passion for culinary exploration, this recipe app has been meticulously designed and developed to enhance your cooking experience. It offers a seamless platform for discovering, saving, and preparing a wide array of dishes with its user-friendly interface, personalized recommendations, and step-by-step guidance. Dive into the world of culinary delights with our meticulously crafted recipe app, ensuring that your cooking adventures are both delightful and convenient.",
+    // image:
+    //   "https://camo.githubusercontent.com/cd07010cbeb90cb1b43a5d6162784326aef02210ef7d41a0f9ae043b3e392378/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
+    tags: ["Kotlin", "Cooking-Tips"],
+    category: "android app",
+    github: "https://github.com/akashtripathiiiii/RecipeApp",
+    // webapp: "https://breaking-bad-webapp.netlify.app",
+  },
+  {
+    id: 6,
+    title: "Airline Reservation",
+    date: "Dec 2022 – Jan 2023",
+    description:
+      "The Airline Reservation System, developed solely in C++, is user-friendly and highly customizable. It offers an efficient method for booking flight tickets and recording passenger information, reducing the likelihood of booking errors. Key features include reservation creation and cancellation, passenger search and reservation modification, passenger list and status report printing, and meal ordering for passengers.",
+    image:
+      "https://github.com/akashtripathiiiii/file-for-projects/assets/57222581/d92cfa22-eaaa-4613-aea4-8aaec9a7c9de",
+    tags: ["C++"],
+    category: "software dev",
+    github: "https://github.com/akashtripathiiiii/Airline-Reservation-System",
+  },
+  {
+    id: 7,
+    title: "SAATHI-Smart Agriculture",
+    date: "Jan 2022 - Feb 2022",
+    description:
+      "SAATHI is an initiative for smart agriculture with the help of different IoT devices. It helps farmers to control their agricultural fields remotely.",
+    image:
+      "https://github.com/akashtripathiiiii/file-for-projects/assets/57222581/5b342e79-8ba9-461d-808c-cc284e94b156",
+    tags: ["C++", "IoT Devices", "smart agriculture"],
+    category: "software dev",
+    github: "https://github.com/akashtripathiiiii/SAATHI-Smart-Agriculture",
+  },
+  {
+    id: 8,
     title: "Portfolio Website",
     date: "Sept 2023 - Present",
     description:
@@ -387,7 +437,7 @@ export const projects = [
     // webapp: "https://github.com/rishavchanda/Job-finder-App",
   },
   {
-    id: 11,
+    id: 9,
     title: "Library Management System",
     date: "April 2023 – May 2023",
     description:
@@ -400,7 +450,7 @@ export const projects = [
     // webapp: "https://whatsapp-clone-rishav.web.app",
   },
   {
-    id: 12,
+    id: 10,
     title: "Online Shopping System",
     date: "Oct 2023 – Nov 2023",
     description:
@@ -413,54 +463,17 @@ export const projects = [
     // webapp: "https://whatsapp-clone-rishav.web.app",
   },
   {
-    id: 5,
-    title: "Ride Hive",
-    date: "July 2023- Present",
+    id: 11,
+    title: "AsanaAi",
+    date: "Jan 2024 – May 2024",
     description:
-      "Designed for tech enthusiasts, our app offers a curated gateway to the dynamic world of technology-related events. Meticulously developed and powered by Firebase, it seamlessly stores and retrieves event data, ensuring you stay informed about the latest tech happenings. Explore, plan, and engage with the technology community through our thoughtfully designed app, which keeps you connected to the pulse of tech events.",
-    // image:
-    //   "https://camo.githubusercontent.com/a328255ad96f861f57d25096d28018ab2656c689a1456b0d145764009bed2d1a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-    tags: ["Kotlin","Firebase","Tech Event Management"],
-    category: "android app",
-    github: "https://github.com/akashtripathiiiii/TechManagementSystem",
-    // webapp: "https://rishav-react-todo.netlify.app/",
-  },
-  {
-    id: 6,
-    title: "Recipe App",
-    date: "April 2023",
-    description:
-      "Crafted with a passion for culinary exploration, this recipe app has been meticulously designed and developed to enhance your cooking experience. It offers a seamless platform for discovering, saving, and preparing a wide array of dishes with its user-friendly interface, personalized recommendations, and step-by-step guidance. Dive into the world of culinary delights with our meticulously crafted recipe app, ensuring that your cooking adventures are both delightful and convenient.",
-    // image:
-    //   "https://camo.githubusercontent.com/cd07010cbeb90cb1b43a5d6162784326aef02210ef7d41a0f9ae043b3e392378/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
-    tags: ["Kotlin","Cooking-Tips"],
-    category: "android app",
-    github: "https://github.com/akashtripathiiiii/RecipeApp",
-    // webapp: "https://breaking-bad-webapp.netlify.app",
-  },
-  {
-    id: 7,
-    title: "Airline Reservation",
-    date: "Dec 2022 – Jan 2023",
-    description:
-      "The Airline Reservation System, developed solely in C++, is user-friendly and highly customizable. It offers an efficient method for booking flight tickets and recording passenger information, reducing the likelihood of booking errors. Key features include reservation creation and cancellation, passenger search and reservation modification, passenger list and status report printing, and meal ordering for passengers.",
+      "AsanaAi is not just another fitness app; it's a comprehensive tool designed to cater to various aspects of holistic health, ranging from yoga practice to cardiovascular workouts, and even mental well-being. It's a one stop solution for both Physical and Mental Health.",
     image:
-      "https://github.com/akashtripathiiiii/file-for-projects/assets/57222581/d92cfa22-eaaa-4613-aea4-8aaec9a7c9de",
-    tags: ["C++"],
-    category: "software dev",
-    github: "https://github.com/akashtripathiiiii/Airline-Reservation-System",
-  },
-  {
-    id: 8,
-    title: "SAATHI-Smart Agriculture",
-    date: "Jan 2022 - Feb 2022",
-    description:
-      "SAATHI is an initiative for smart agriculture with the help of different IoT devices. It helps farmers to control their agricultural fields remotely.",
-    image:
-      "https://github.com/akashtripathiiiii/file-for-projects/assets/57222581/5b342e79-8ba9-461d-808c-cc284e94b156",
-    tags: ["C++","IoT Devices","smart agriculture"],
-    category: "software dev",
-    github: "https://github.com/akashtripathiiiii/SAATHI-Smart-Agriculture",
+      "https://github.com/akashtripathiiiii/file-for-projects/assets/57222581/3c5f8212-a917-479d-b996-5218a055175f",
+    tags: ["JavaScript", "Pose Net", "KNN", "Object Detection"],
+    category: "web app",
+    github: "https://github.com/akashtripathiiiii/AsanaAi",
+    webapp: "asanaai.netlify.app",
   },
 ];
 
