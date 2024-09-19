@@ -34,9 +34,9 @@ const Projects = ({openModal,setOpenModal}) => {
           }
           <Divider />
           {toggle === 'software dev' ?
-            <ToggleButton active value="software dev" onClick={() => setToggle('software dev')}>SOFTWARE DEV</ToggleButton>
+            <ToggleButton active value="software dev" onClick={() => setToggle('software dev')}>SOFTWARE DEV'S</ToggleButton>
             :
-            <ToggleButton value="software dev" onClick={() => setToggle('software dev')}>SOFTWARE DEV</ToggleButton>
+            <ToggleButton value="software dev" onClick={() => setToggle('software dev')}>SOFTWARE DEV'S</ToggleButton>
           }
         </ToggleButtonGroup>
         <CardContainer>

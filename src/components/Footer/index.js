@@ -95,7 +95,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Akash Tripathi. All rights reserved.
+          &copy; 2024 Akash Tripathi. All rights reserved.
         </Copyright>
 
       </FooterWrapper>

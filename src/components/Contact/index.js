@@ -71,7 +71,7 @@ const ContactForm = styled.form`
 const ContactTitle = styled.div`
   font-size: 24px;
   margin-bottom: 6px;
-  font-weight: 600;
+  font-weight: 500;
   color: ${({ theme }) => theme.text_primary};
 `
 
